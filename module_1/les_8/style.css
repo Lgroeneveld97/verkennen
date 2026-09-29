@@ -1,0 +1,36 @@
+header {
+    background-color: #120347;
+    color: white;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #f4f1ff;
+    color: #2d2a3d;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: center;
+}
+
+h2 {
+    color: #5b3cc4;
+}
+
+p {
+    line-height: 1.1;
+}
+
+footer {
+    background-color: #464564;
+    color: whitesmoke;
+    text-align: left;
+    padding: 40px;
+}
+
